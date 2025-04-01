@@ -24,8 +24,6 @@ plugins:
       pixeldrain: true # pixeldrain.com
   youtube:
     enabled: true
-    oauth:
-      enabled: false
     allowSearch: true
     allowDirectVideoIds: true
     allowDirectPlaylistIds: true
